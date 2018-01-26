@@ -1,0 +1,10 @@
+{
+  "input": "./wedding",
+  "output": "./dist",
+  "title": "JT & Anna's Wedding Photos",
+  "thumb-size": 200,
+  "large-size": 1000,
+  "download-photos": "copy",
+  "theme": "cards",
+  "css": "./custom.css"
+}
